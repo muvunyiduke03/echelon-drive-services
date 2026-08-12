@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { NavLink } from "react-router-dom";
 import { FiMenu, FiX } from "react-icons/fi";
-import Logo from "../Logo/logo";
+import Logo from "../Logo/Logo";
 
 const navigationLinks = [
   { name: "Home", path: "/" },
